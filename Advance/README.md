@@ -15,8 +15,6 @@ The purpose of these programs is to practice building real-world tools instead o
 * **system_monitor.py** – Displays CPU and memory usage.
 * **url_status_checker.py** – Checks if websites are online.
 * **image_downloader.py** – Downloads images from a URL.
-* **log_analyzer.py** – Reads log files and finds errors.
-* **markdown_to_html_converter.py** – Converts Markdown files to HTML.
 
 ## Requirements
 
